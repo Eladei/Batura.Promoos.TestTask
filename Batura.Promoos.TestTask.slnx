@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Batura.Promoos.TestTask.Api/Batura.Promoos.TestTask.Api.csproj" />
+  <Project Path="Batura.Promoos.TestTask.IntegrationTests/Batura.Promoos.TestTask.IntegrationTests.csproj" />
+  <Project Path="Batura.Promoos.TestTask.Model/Batura.Promoos.TestTask.Model.csproj" />
+</Solution>
